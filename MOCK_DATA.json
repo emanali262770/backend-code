@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "first_name": "Malchy",
+    "last_name": "Venn",
+    "email": "mvenn0@yandex.ru",
+    "gender": "Male",
+    "job_title": "Director of Sales"
+  },
+  {
+    "id": 2,
+    "first_name": "Egon",
+    "last_name": "Savaage",
+    "email": "esavaage1@dedecms.com",
+    "gender": "Male",
+    "job_title": "Programmer Analyst II"
+  },
+  {
+    "id": 3,
+    "first_name": "Reggie",
+    "last_name": "Gerrit",
+    "email": "rgerrit2@vkontakte.ru",
+    "gender": "Genderqueer",
+    "job_title": "Graphic Designer"
+  },
+  {
+    "id": 4,
+    "first_name": "Tonnie",
+    "last_name": "Gauchier",
+    "email": "tgauchier3@networkadvertising.org",
+    "gender": "Male",
+    "job_title": "Geological Engineer"
+  },
+  {
+    "id": 5,
+    "first_name": "Reid",
+    "last_name": "Ellgood",
+    "email": "rellgood4@admin.ch",
+    "gender": "Genderqueer",
+    "job_title": "Account Representative I"
+  },
+  {
+    "id": 6,
+    "first_name": "Chad",
+    "last_name": "Beenham",
+    "email": "cbeenham5@nbcnews.com",
+    "gender": "Male",
+    "job_title": "General Manager"
+  },
+  {
+    "id": 7,
+    "first_name": "Klaus",
+    "last_name": "Spillard",
+    "email": "kspillard6@cargocollective.com",
+    "gender": "Male",
+    "job_title": "Nuclear Power Engineer"
+  },
+  {
+    "id": 8,
+    "first_name": "Bordie",
+    "last_name": "O'Fihillie",
+    "email": "bofihillie7@examiner.com",
+    "gender": "Male",
+    "job_title": "Librarian"
+  },
+  {
+    "id": 9,
+    "first_name": "Josh",
+    "last_name": "McGeever",
+    "email": "jmcgeever8@epa.gov",
+    "gender": "Male",
+    "job_title": "Health Coach I"
+  },
+  {
+    "id": 10,
+    "first_name": "Ramsey",
+    "last_name": "Benfield",
+    "email": "rbenfield9@businessweek.com",
+    "gender": "Male",
+    "job_title": "Accounting Assistant II"
+  }
+]
