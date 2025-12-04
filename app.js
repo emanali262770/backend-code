@@ -5,7 +5,14 @@ const app =express();
 app.use(express.json());
 
 const PORT=8000;
-
+app.use((req,res,next)=>{
+    console.log("helloi from middleware1");
+    next()
+})
+app.use((req,res,next)=>{
+    console.log("helloi from middleware2");
+    return res.end("hi")
+})
 // ROUTES
 app.get('/api/users', (req, res) => {
     return res.status(200).json(users);
